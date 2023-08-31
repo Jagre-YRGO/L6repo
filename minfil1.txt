@@ -1,0 +1,4 @@
+Hej hej
+Detta blir min första fil i mitt nya repo
+GIT är knepigt men avnändbart!
+
