@@ -4,3 +4,4 @@ Här har det kommit in en ny rad
 GIT är knepigt men avnändbart!
 Rad som lagts till i RPI zero
 
+merge rad från RPI zero
