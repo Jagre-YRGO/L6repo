@@ -5,3 +5,4 @@ GIT är knepigt men avnändbart!
 Rad som lagts till i RPI zero
 
 ny rad Ubunut
+merge rad från RPI zero
