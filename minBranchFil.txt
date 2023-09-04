@@ -1,4 +1,4 @@
 denna fil skapade jag
 i branchen "mybranch"
 
-ny rad
+en ny rad
