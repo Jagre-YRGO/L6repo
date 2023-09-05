@@ -1,0 +1,4 @@
+Denna fil finns för att
+demonstrera grenar i GIT
+Den skapades lektion 7
+
