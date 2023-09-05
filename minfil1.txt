@@ -1,4 +1,4 @@
-Hej hej
+hej hej
 Detta blir min första fil i mitt nya repo
 Här har det kommit in en ny rad
 GIT är knepigt men avnändbart!
